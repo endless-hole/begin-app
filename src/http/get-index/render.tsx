@@ -9,7 +9,7 @@ export async function render() {
 <head>
   <meta charset=utf-8>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Hi from Begin!</title>
+  <title>myg0t</title>
   <link rel="stylesheet" href="https://static.begin.app/starter/default.css">
   <link href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" rel="icon" type="image/x-icon">
 </head>
