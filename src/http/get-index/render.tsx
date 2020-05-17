@@ -18,23 +18,12 @@ export async function render() {
     <img src="https://static.begin.app/starter/begin-logo.svg" style="max-width: 250px" class="center-text">
     <div style="margin-bottom: 24px">
       <h1 style="margin-bottom: 24px" class="center-text">
-        Howdy, Beginner!
+        www.myg0t.gg
       </h1>
       <div id="app">${body}</div>
       <p style="margin-bottom: 8px">
-        Get started by editing this file at:
+        Get ready to get owned newb!
       </p>
-      <code>
-        public/index.html
-      </code>
-    </div>
-    <div>
-      <p style="margin-bottom: 8px">
-        View documentation at:
-      </p>
-      <a class="link" 
-        href="https://docs.begin.com" 
-        target="_blank">https://docs.begin.com</a>
     </div>
   </div>
   </div>
